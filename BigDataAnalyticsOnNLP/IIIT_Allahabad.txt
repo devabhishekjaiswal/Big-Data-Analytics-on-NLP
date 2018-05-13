@@ -1,0 +1,125 @@
+Indian Institute of Information Technology, Allahabad
+From Wikipedia, the free encyclopedia
+
+The Indian Institute of Information Technology, Allahabad (IIIT-A) was established in 1999, as a center of excellence in Information Technology and allied areas. The institute was conferred "Deemed University" status by Govt. of India in the year 2000. The Institute thus became empowered to have a perpetual seal and award degrees subsequent to the conduct of its own examinations. With the passage of IIIT Bill 2014 [2] by the Parliament of India, IIIT Allahabad, along with the other 4 MHRD funded IIITs, became an Institute of National Importance on December 1, 2014.[3] The Institute of National Importance (INI) is a status that may be conferred to a higher education institution in India by an act of parliament. They are institutes which "serve as a pivotal player in developing highly skilled personnel within the specified region of the country/state". INIs receive special recognition and funding.
+
+The institute was established by the efforts of Prof. Murli Manohar Joshi, Union Minister of Human Resource Development, GoI. Realizing the vital significance of IT in the years to come, Prof. Joshi, himself a reputed academician, was instrumental in getting the project conceived, initiated and executed in record time. The 100 acre campus, situated at Deoghat, Jhalwa was designed on the Penrose Geometry pattern. The campus is envisaged to be a fully residential one, with all its faculty, staff and students housed in different pockets. All academic and residential areas are connected to the Institutes's network. [4]
+
+History[edit]
+The Prime Minister of India constituted a National Task Force on IT and Software Development in 1998. The purpose of this committee was to make specific recommendations for the establishment of IT institutions that would produce a skilled IT workforce. The vision was to bring India to the frontier of the field of information technology.
+
+The Ministry of Human Resources Development through its order of 1 July 1998 constituted the Rame Gowda Committee. This expert committee was to submit a project report regarding the feasibility and logistics of setting up a National Institute of Excellence in Information Technology with Allied Sciences. This Institute would carry out pioneering research and development with an emphasis on industry linkages and networking at national and international levels.
+
+This Expert Committee met a number of times and discussed the vision and scope of the institute against the backdrop of technological innovations, particularly in the field of Information Technology. Accordingly, the decision was taken that it was an opportune moment for India to exploit and harness IT at all levels, from grass-root applications to top-notch software development.
+
+The national task force on IT had suggested a wide spectrum of recommendations spanning from wired-village concepts to $50-billion software development programs within 6–8 years. To achieve this target, there was an urgent need for massive manpower generation. Towards this end, the Task Force had called for a number of front-ranking IT centers of excellence, of which the first was to be established in Allahabad.
+
+The Expert Committee then proposed the profile of an institute with all the relevant details with regard to location, funding and governance. It also came up with a budget of Rs. 41.70 crores for the establishment of an institute at Allahabad. It was the hope of the members of the Committee that the setting up of this institute would usher in an era of establishment of such centers across the country. Furthermore, this institute was expected to emerge as a national center of excellence in IT along with like sciences and technologies.
+
+For financial and administrative approval, these recommendations were placed before the Expenditure and Finance Committee at its meeting on the 30th of December, 1999 where the institute was established.
+
+Campus[edit]
+The institute is located on a campus at Jhalwa, on the outskirts of Allahabad. The new campus has been developed on 100 acres (0.40 km2) of land at Deoghat, Jhalwa, on the outskirts of Allahabad. The campus and other buildings have been styled on patterns developed by a mathematics professor Roger Penrose. Within the Penrose layout for the campus, a central zone has been marked out for the academic core consisting of an administrative building, lecture theater complex, electronic library, computer laboratories and research facilities.
+The Jhalwa campus includes three computer centers with six labs each, 16 lecture halls, electronics library and residential facilities for students and faculty. An open air theater, stadium and recreational facilities are under development. Apart from these there is a library, lecture theater complex and administrative building. A new, state-of-the-art auditorium has been built which has hosts events like the Science Conclave and Dakshata.
+
+Buildings[edit]
+Computer Center[edit]
+The Jhalwa campus includes three Computer Centers with six computer labs each and 16 lecture halls in total. Computer center 3 is institute's primary computer center with 8 computer labs that have state-of-the-art desktops and 12 lecture halls with modern teaching methods like projector screens.It was built in 2008. The computer labs have high speed internet connectivity that caters to totally 1200 users at the same time using Wired connection and through Wireless and has a 10 Gigabit/s fiber optic backbone. The classes of undergraduates take place in the lecture halls in computer center 3. The lecture halls have capacity for 150 students and are fully equipped with air conditioners, furnished benches and four white boards.
+
+Library[edit]
+The IIIT-A central library has a repository of more than 50000 books concerning myriad disciplines of study such as pure and applied sciences, computer science, information technology,electronics and communication technology, information security and management. It can accommodate up to 150 students at a time. There's also an electronic library. The e-media section of the library has 10 computer systems and is largely meant for facilitating e-reading amongst the students. A collection of more than 2000 CDs equipped with drivers, tools and recorded lectures.
+
+Hostels[edit]
+The freshmen batches, from 1999 to 2011, were housed in a hostel situated in Naini (19 kilometers from the main campus), which could accommodate over 200 students. Starting in academic year 2011-2012 they have been shifted to the main campus and Naini facility has been shut down.
+
+The residential campus consists of four boys' hostels with capacity for 240 students each. The boy's hostel are separated from the main campus but merely a walking distance from it. Recreational facilities include provision for sports such as Volley ball, Badminton, Table tennis etcetera and are complimented with gymnasium, common TV rooms.
+
+The campus has 40-room air-conditioned guest house and staff residences for senior professors and other staff. Faculty hostels with two-room and one-room units for visiting professors are provided.There are three visitor hostels(guest houses) and 2 hostels for Married scholars. One new boys hostel BH5 is under construction and is expected to be built by august 2015.
+
+Night canteens within the boys and girls hostel premises facilitate the dietary requirements of the students after the normal dining hours.
+
+Student Activity Center[edit]
+The campus has a Student Activity Center or SAC. The purpose is to provide the students an opportunity to expand their horizon and engage into various co-curricular activities. The center has a gymnasium, Table tennis room, Snookers room, Dance and music room. All the rooms are air conditioned to promote the activities and provide comfort to the students. Equipment for long tennis, cricket and soccer available in SAC.
+
+Shopping Complex[edit]
+To provide for the daily requirements of the students, there is a shopping complex in the campus. It has 7 shops.
+
+Others[edit]
+There are many other buildings like the Cafeteria which is a small restaurant, an Auditorium that was built in 2012 and hosts major cultural events like science conclave, a lecture theater where M.S. and PhD classes take place, Health center with staff available 24X7, and an ATM.
+
+Labs[edit]
+Lab facilities include: Artificial Intelligence Lab, Basic Electronics Lab, Basic and Advanced Programming Lab, Bio Informatics Lab, CAD Lab, Communication Systems Lab, Control Systems Lab, Digital Electronics Lab, Digital Signal Processing Lab, Electronics Workshop, Embedded Systems Lab, Mobile Communications Lab, Microprocessor Lab, Fiber Optics Lab, Instrumentation Lab, Natural Language Processing Lab, Printed Circuit Lab, Image Processing Lab, CUDA Lab, RF and Microwave Lab, Robotics Lab, Software Engineering Lab, Universal Digital Library, VLSI Design and Fabrication Lab,Wireless Sensors Lab etc.
+
+Sports[edit]
+Swimming pool
+Basketball court
+Football ground
+Table tennis
+Billiards
+Gymnasium
+Volleyball court
+Badminton court
+Lawn Tennis
+The basketball, volleyball, football and badminton courts are flood lit to facilitate students playing at night.
+
+Academics[edit]
+Institute Rankings
+
+IIIT-A has consistently been ranked as among the top technical schools in the country. It was given the 8th overall rank in India by India Today. Outlook India ranked it as the 18th best engineering institute in India. IIIT Allahabad was also ranked 11th by Nasscom-Dataquest ranking and was ranked 4th by the same in Placements.
+
+Programs
+
+IIITA offers a B.Tech degree in either Information Technology or Electronics and Communications Engineering.5 Years long B.TECH-MTECH Dual Programs in IT and ECE MTECH Biomedical Engineering. Admission to all these programs are through JEE-MAINS. IIITA foreign students are accepted based on SAT II scores.[5] Three postgraduate programmes are offered, Master of Business Administration (MBA) in Information Technology (MBA-IT),[Master of Technology]in BIOMEDICAL Engineering Master of Technology (M.Tech) in Information Technology,[6] and an integrated M.Tech in Bio-Medical Engineering. Admission to the MBA-IT programme is based on CAT scores and an entrance test, interview & group discussion.[7] Admission to the MS-CLIS program is based on an entrance test and an interview.[8] Admission to the M.Tech programme is based on Graduate Aptitude Test in Engineering (GATE) scores and on a written test or interview.[6]
+
+Students can enroll in the research Doctoral Programme (awarding a Ph.D) after either completing a B.Tech degree or an M.Tech one.[9]
+
+Research and Development[edit]
+Student projects It is mandatory for all B.Tech, M.Tech, MS, MBA and Ph.D. students to take up projects under the guidance of specialist faculties. The projects are developmental and application based with emphasis on originality and creativity. Since several projects are being carried out in collaboration with the industry, the students get a chance to deal with and innovatively solve real life problems using their technical expertise.
+
+Research publications Students are continuously encouraged to publish their research work and observations in the form of scientific papers in various revered national and international conference and esteemed journals.
+
+Patents Students who come up with original, innovative and pragmatic solutions to day to day problems are promoted and aided to file for national and international patents.
+
+Sponsored projects Numerous nationally and internationally sponsored research projects running in the institute receive healthy participation from the students. These projects encompass a very broad spectrum of areas both conventional and pioneering. Several papers based on these projects have been published in reputed referred journals and appreciated in various international conferences. A few include:
+
+Mega Centre in Universal Digital Library supported by the Ministry of Communication and Information Technology, GoI and Carnegie Mellon University (USA)
+Patent Referral Centre (PRC)
+Software Licensing and IPR Depository Centre supported by Ministry of Human Resource Development, GoI
+Technology Development of Indian Languages supported by the Ministry of Communication and Information Technology, GoI
+Bio-Informatics Centre supported by Department of Bio-Technology, GoI
+Indo-Russian Centre of Bio-Technology supported jointly by Department of Science and Technology and Department of Bio-Technology, GoI
+Broadband over Power Line Project for villages supported by Department of Science and Technology, GoI
+Information Security Education and Awareness (ISEA)
+Development of active prosthetic limbs for physically challenged persons using robotic technology (ISJRP)
+Indo-Russian Center for Biotechnology (IRCB)
+
+Under the umbrella of the Indo-Russian Integrated Long Term Programme (ILTP) in Science and Technology, several joint R&D projects are being implemented. Russian institutions have been offering technologies for commercialisation in India. Similarly, the Indian side has been offering technologies developed in India for validation and commercialisation in Russia. Technology transfer activities in engineering materials, electronics, laser science and technology, catalysis, space science and technology has been significant.
+
+The sub-working group on biotechnology in its meeting held on 8 December 1999 endorsed the view of the ILTP joint council that there was a need to establish a joint Indo-Russian centre for biotechnology (IRCB) to co-ordinate activities under Indo-Russian collaboration in biotechnology. The Sub-Working group on biotechnology during its third meeting in June, 2000 in Moscow also strongly recommended the proposal. M. M. Joshi, the Minister for Science and Technology announced it formally during his visit to Russia in July, 2000.
+
+The agreement for establishment of this centre was formally concluded on 5 November 2001 in Moscow during the visit of the Indian Prime Minister to Russia between the Department of Science and Technology on the Indian side and the Russian Academy of Sciences on the Russian side.
+
+The centre was inaugurated by M. M. Joshi at Allahabad on 23 December 2001.
+
+The First project at the center is the HCRPDB, a Database Retrieval and Mining System for Human Cell Receptors Proteins. HCRPDB generates information for structure based drug design on cell receptors proteins and allows retrieval of protein sequence related information.
+
+Effervescence
+Effervescence is the annual three-day-long cultural of IIIT Allahabad. It is a platform of youthful energy showcasing intellectuals, creativity and a cultural treat. The cultural, managerial and technical spirits mingle to make the event a success. Participants from IIT’s, IIM’s, NIT’s and IIIT have been seen experiencing these intense events and win laurels. The three days, on-campus events which consist of technical events in the morning and a platter of dance, dramatics, literary and music competitions. The concluding night of the Effervescence is always the most anticipated and illustrious event which has seen bands like Bombay Vikings, Euphoria, Silk Route and Strings performing live. [10][11]
+
+Annual Science Conclave[edit]
+Every year IIIT organizes the International Science conclave, an interaction program of Nobel Laureates and eminent national and international academicians, scientists, technologists and industrialists with selected students, young teachers and researchers during December to inspire and motivate the younger generation.[12]
+
+Societies[edit]
+GeekHaven Technical Society undertakes all the student technical activity.
+INDEM (IIITA Network Development, Engineering and Management) represents the Network and System Admins at IIITA. INDEM innovates and experiments with technology at the campus LAN, as well as maintaining and managing the internet/intranet services.
+Robita Society enables students to experiment with robot design, artificial intelligence programming and related areas. Robot fabrication workshops are conducted.
+The Literary Society organizes debates, extempore and other literary competitions. It publishes IMHO (in English) and Swacchanda (in Hindi), which are two magazines for in-campus circulation.
+RangTarangani is the Dramatics Society that organizes workshops for acting and scriptwriting, and holds drama competitions where talent can be showcased. The Society has staged performances in Hindi and English. Innovation one act play competition is an annual feature of the Society.
+Virtuosi Music Society showcases the musical talent of the institute. The Society has a college band.
+Spirit is the Sports Society
+Ushma is the Dance Society
+Thunderbolt, the Audio Lights Society, manages lights, audio equipment, and visual recording of events staged at IIITA.
+Team Effervescence - Program Management and Publicity Society is responsible for management and publicity of events held at IIITA.
+
+IIITA's Extension Campus at Amethi[edit]
+RGIIT Amethi is an extension campus of IIIT Allahabad and is established in a sprawling 60-acre (240,000 m2) area in the midst of calm surrounding.Presently RGIIT Amethi provides its course on IT only.
